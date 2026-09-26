@@ -13,11 +13,6 @@ This repository holds my initial project structure and draft proposal for our Fi
 * **🛒 Sell Items on the Fly:** Log retail purchases immediately. The app drops the product stock count automatically and calculates the transaction total for you.
 * **💰 See Today's Profit:** Skip the manual coin-counting and math at closing time. Get a fast summary of the total cash earned during the day. `(💵_💵)`
 
-## 📂 What's In This Repo
-
-* `README.md` — A quick, helpful guide to what this project is all about (you are reading it right now!).
-* `Project_Proposal_Draft.pdf` — The formal 3-page proposal document detailing the problem statement, SMART goals, exact inputs/outputs, and the step-by-step logic plan.
-
 ## ⚙️ Behind the Scenes (How It Works)
 
 The logic operates on a continuous menu loop to keep things quick and simple for the owner:
