@@ -1,4 +1,4 @@
-markdown# Sari-Sort: A Micro-Inventory & Expiration Tracker for Sari-Sari Stores ✨
+# Sari-Sort: A Micro-Inventory & Expiration Tracker for Sari-Sari Stores ✨
 
 Sari-Sort is a simple, smart app concept designed to help neighborhood sari-sari store owners ditch traditional pen-and-paper logs. Instead of managing stock by memory or writing down sales in a beat-up notebook, this app makes it easy for owners to keep track of their items, get alerts before products expire, and automatically view their total revenue at the end of the day. ᕙ(`▽´)ᕗ
 
