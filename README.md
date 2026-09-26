@@ -6,16 +6,12 @@ This repository holds my initial project structure and draft proposal for our Fi
 
 *(Heads up: This is just the project planning and proposal phase, so the actual application code isn't fully built out yet!)*
 
----
-
 ## 🌟 Core Features
 
 * **📋 Check Stock & Alerts:** View your current shelf space in real-time. The system automatically warns you if you are running low (`⚠️ Running low!`) or if items are going to spoil soon (`⏰ Expiring soon!`).
 * **➕ Quick Product Adding:** Easily stock new inventory by typing in the item's name, category, prices, stock count, and expiration date.
 * **🛒 Sell Items on the Fly:** Log retail purchases immediately. The app drops the product stock count automatically and calculates the transaction total for you.
 * **💰 See Today's Profit:** Skip the manual coin-counting and math at closing time. Get a fast summary of the total cash earned during the day. `(💵_💵)`
-
----
 
 ## 📂 What's In This Repo
 
