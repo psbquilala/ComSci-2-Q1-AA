@@ -1,4 +1,4 @@
-# Sari-Sort: A Micro-Inventory & Expiration Tracker for Sari-Sari Stores ✨
+# Sari-Sort: A Micro-Inventory & Expiration Tracker for Sari-Sari Stores 
 
 Sari-Sort is a simple, smart app concept designed to help neighborhood sari-sari store owners ditch traditional pen-and-paper logs. Instead of managing stock by memory or writing down sales in a beat-up notebook, this app makes it easy for owners to keep track of their items, get alerts before products expire, and automatically view their total revenue at the end of the day. ᕙ(`▽´)ᕗ
 
@@ -18,8 +18,6 @@ This repository holds my initial project structure and draft proposal for our Fi
 * `README.md` — A quick, helpful guide to what this project is all about (you are reading it right now!).
 * `Project_Proposal_Draft.pdf` — The formal 3-page proposal document detailing the problem statement, SMART goals, exact inputs/outputs, and the step-by-step logic plan.
 
----
-
 ## ⚙️ Behind the Scenes (How It Works)
 
 The logic operates on a continuous menu loop to keep things quick and simple for the owner:
@@ -28,6 +26,3 @@ The logic operates on a continuous menu loop to keep things quick and simple for
 3. **Live Calculation:** Product array listings and total revenue variables are instantly updated behind the scenes depending on user input actions.
 
 *Take a look inside the formal proposal PDF to see the exact structured pseudocode!* ＼(￣▽￣)／
-
----
-Created for the 1st Quarter Computer Science Project submission. Ready for review
